@@ -1,0 +1,9 @@
+{
+    "name": "Caspien's Sirens Extension",
+    "description": "Catch fish in your tabs!",
+    "version": "0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
